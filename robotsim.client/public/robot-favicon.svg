@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <!-- Robot body -->
+  <rect x="16" y="20" width="32" height="28" fill="#00ff88" stroke="#00ff88" stroke-width="2" rx="2"/>
+  <!-- Head -->
+  <rect x="20" y="8" width="24" height="16" fill="#00ff88" stroke="#00ff88" stroke-width="2" rx="2"/>
+  <!-- Left eye -->
+  <circle cx="26" cy="14" r="2.5" fill="#0a0e14"/>
+  <!-- Right eye -->
+  <circle cx="38" cy="14" r="2.5" fill="#0a0e14"/>
+  <!-- Mouth -->
+  <path d="M 28 18 Q 32 20 36 18" stroke="#0a0e14" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+  <!-- Left arm -->
+  <rect x="8" y="26" width="8" height="6" fill="#00ff88" stroke="#00ff88" stroke-width="1.5" rx="1"/>
+  <!-- Right arm -->
+  <rect x="48" y="26" width="8" height="6" fill="#00ff88" stroke="#00ff88" stroke-width="1.5" rx="1"/>
+  <!-- Left leg -->
+  <rect x="20" y="48" width="6" height="12" fill="#00d9ff" stroke="#00d9ff" stroke-width="1.5" rx="1"/>
+  <!-- Right leg -->
+  <rect x="38" y="48" width="6" height="12" fill="#00d9ff" stroke="#00d9ff" stroke-width="1.5" rx="1"/>
+  <!-- Body details: antenna -->
+  <line x1="32" y1="8" x2="32" y2="2" stroke="#00ff88" stroke-width="2" stroke-linecap="round"/>
+  <circle cx="32" cy="1" r="1.5" fill="#00ff88"/>
+</svg>
